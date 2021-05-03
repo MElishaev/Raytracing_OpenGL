@@ -9,4 +9,4 @@ https://github.com/MElishaev/Raytracing_OpenGL/blob/main/res/shaders/myShader.gl
 Based on Phong ligthing model.
 
 ## Sample
-![](RaytracingShader.gif)  
+![](RaytracerShader.gif)  
