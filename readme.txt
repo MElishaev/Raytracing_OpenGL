@@ -7,3 +7,6 @@ This project mainly presents a ray tracing shader written in GLSL:
 https://github.com/MElishaev/Raytracing_OpenGL/blob/main/res/shaders/myShader.glsl
 
 Based on Phong ligthing model.
+
+## Sample
+![](RaytracingShader.gif)  
